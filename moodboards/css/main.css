@@ -1,0 +1,14 @@
+body {
+	max-width: 100%;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	width: auto; /* for ie 8 */
+}
+
+h1 {
+
+	font-family:"arial",Georgia,Serif;
+}
